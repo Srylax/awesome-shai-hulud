@@ -7,6 +7,8 @@
 ![Build with Javascript](https://img.shields.io/badge/Built_with-JavaScript-yellow)
 ![NPM failing](https://img.shields.io/badge/NPM-failing-red?logo=npm&color=%23cc2633)
 ![Your Token is mine](https://img.shields.io/badge/Your_Token-is_mine-none)
+![Code Coverage](https://img.shields.io/badge/coverage-109%25-error)
+
 
 
 
