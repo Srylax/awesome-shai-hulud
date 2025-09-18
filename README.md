@@ -1,7 +1,7 @@
 # Awesome Shai-Hulud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-> A curated list of resources for Shai-Hulud
+> A curated list of Shai-Hulud'd repositories
 
 
 ## Funny
@@ -22,7 +22,6 @@ Not real infections
 ### Rick Rolls
 
 - https://github.com/B611/Shai-Hulud
-- 
 
 ## Victims
 
