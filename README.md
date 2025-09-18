@@ -1,7 +1,14 @@
-# Awesome Shai-Hulud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Shai-Hulud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 
 > A curated list of Shai-Hulud'd repositories
+
+
+![Build with Javascript](https://img.shields.io/badge/Built_with-JavaScript-yellow)
+![NPM failing](https://img.shields.io/badge/NPM-failing-red?logo=npm&color=%23cc2633)
+![Your Token is mine](https://img.shields.io/badge/Your_Token-is_mine-none)
+
+
 
 
 ## Funny
@@ -47,3 +54,9 @@ Not real infections
 ## Contribute
 
 Contributions are welcome!
+
+## Funding
+
+Even a worm needs something to eat. So if you would be so kind as to send me some of your tasty npm tokens, please?
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/srylax?label=Please%20support%20a%20worm%20during%20these%20trying%20times)
