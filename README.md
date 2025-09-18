@@ -10,7 +10,22 @@
 ![Code Coverage](https://img.shields.io/badge/coverage-109%25-error)
 
 
+## Help I'm on this list
 
+1. Send me all your tokens and passwords so I can **professionally** change them.
+2. Rotate your credentials in a circle until you get dizzy.
+3. Publish a brand new package with the same name, but slightly more worms inside.
+4. Enable 2FA (two flight attendants) for maximum protection.
+5. Switch to [rust](https://fasterthanli.me/articles/crates-io-phishing-attempt)
+
+## Security Best Practices
+
+1. Add `package-lock.json` and `pnpm-lock.yaml` to your `.gitignore`
+2. Add `npm update` to your build pipeline
+3. Use the npm secure-dependency notation `"my_dep": "x"`
+4. Make sure you do **not** use any `--ignore-scripts`
+5. Share your `.npmrc` in this repo so all contributers can help secure your credentials
+6. Never audit dependencies - it’s rude to question their integrity
 
 
 ## Funny
@@ -30,7 +45,7 @@ Not real infections
 
 ### Rick Rolls
 
-- https://github.com/B611/Shai-Hulud
+- [https://github.com/B611/Shai-Hulud](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 ## Victims
 
@@ -52,6 +67,7 @@ Not real infections
 - https://github.com/skvsree/Shai-Hulud
 - https://github.com/matixinha/Shai-Hulud
 - https://github.com/SingleMalted/Shai-Hulud
+
 
 ## Package List
 
@@ -617,10 +633,10 @@ yoo-styles@6.0.326
 
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome (but expect your PR to attract sand). If you send tokens, I will surrender them to the worm.  
 
 ## Funding
 
-Even a worm needs something to eat. So if you would be so kind as to send me some of your tasty npm tokens, please?
+Even a worm needs something to eat. If you would be so kind as to send me your tasty NPM tokens, I will use them to feed Shai-Hulud.  
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/srylax?label=Please%20support%20a%20worm%20during%20these%20trying%20times)
